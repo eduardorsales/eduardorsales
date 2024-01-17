@@ -3,9 +3,6 @@
 ###
 
 <p align="left">Eu sou o Eduardo e seja bem-vindo(a) ao meu perfil do GitHub.</p>
-
-###
-
 <p align="left">Sou estudante de Ciências da Computação e busco minha primeira oportunidade no mercado. Sempre em busca de aprender novas tecnologias e enfrentar desafios emocionantes.</p>
 
 ###
