@@ -6,10 +6,6 @@
 
 ###
 
-<h3 align="left">Sobre mim</h3>
-
-###
-
 <p align="left">Sou estudante de Ciências da Computação e busco minha primeira oportunidade no mercado. Sempre em busca de aprender novas tecnologias e enfrentar desafios emocionantes.</p>
 
 ###
